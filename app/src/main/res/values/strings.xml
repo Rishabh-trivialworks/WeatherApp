@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherAppDemo</string>
+
+    <string name="no_internet">Please make sure you are connected to the internet.</string>
+    <string name="please_try_later">Try Again</string>
+    <string name="app_key">5ad7218f2e11df834b0eaf3a33a39d2a</string>
+    <string name="pressure">Pressure</string>
+    <string name="Wind">Wind</string>
+    <string name="Humidity">Humidity</string>
+</resources>
